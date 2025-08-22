@@ -1,16 +1,19 @@
-🚀 100 Days of Machine Learning Projects
-A progressive, hands-on journey from ML beginner to amateur/intermediate — one project at a time.
-From Iris classification and spam filters to resume matching, AQI prediction, and recommendation systems, this repo contains 30+ projects arranged from basic → challenging to build skills in:
+# 🚀 100 Days of Machine Learning Projects  
 
-📊 Data Analysis & Visualization
+A **progressive, hands-on journey** from ML beginner to intermediate — one project at a time.  
+This repository contains **30+ projects** organized from **basic → advanced**, designed to help you build practical skills in:  
 
-🤖 Machine Learning (Classification, Regression, Clustering)
+- 📊 **Data Analysis & Visualization**  
+- 🤖 **Machine Learning** (Classification, Regression, Clustering)  
+- 🗣 **Natural Language Processing (NLP)**  
+- 🖼 **Image & Audio Processing**  
+- 🌐 **Model Deployment**  
 
-🗣 NLP & Text Processing
+### 📅 Daily Commitment  
+Learn → Build → Document → Share  
 
-🖼 Image & Audio Processing
+### 🎯 Goal  
+Strengthen core **ML concepts** while building a strong **GitHub portfolio** of real-world projects.  
 
-🌐 ML Model Deployment
-
-📅 Daily Commitment: Learn, build, and document.
-💡 Goal: Strengthen ML concepts while creating a strong GitHub portfolio.
+---
+✨ *Start small, grow consistently, and complete the 100 days with confidence!*  
