@@ -16,4 +16,4 @@ Learn → Build → Document → Share
 Strengthen core **ML concepts** while building a strong **GitHub portfolio** of real-world projects.  
 
 ---
-
+# Consistency > Motivation.
