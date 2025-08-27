@@ -17,4 +17,4 @@ Strengthen core **ML concepts** while building a strong **GitHub portfolio** of 
 
 ---
 # Consistency > Motivation.
-Don’t aim for big progress, aim for continuity because tiny drops still fill the bucket.
+Don’t aim for big progress, aim for continuity because there is a fact that "Tiny drops still fill the bucket".
